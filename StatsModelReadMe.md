@@ -172,34 +172,5 @@ Place your California Department of Corrections data files in `data/` directory:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with clear description of changes
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgments
-
-- **[Redo.io](https://redo.io)** - Population metrics tool and partnership
-- **UC Davis MSBA Program** - Project support and guidance
-- **CDCR** - Data access via California Public Records Act
-
----
-
-## 📧 Questions?
-
-Open an issue on GitHub for technical questions or bug reports.
-
----
-
 **Version:** 1.0.0  
 **Last Updated:** November 2024
