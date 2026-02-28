@@ -165,5 +165,3 @@ bias-mlr-analysis/
     └── analysis_data.csv                        # Generated locally (not in repo)
 ```
 
-**Note:** Make sure to add `requirements.txt` to the root of `bias-mlr-analysis/` folder in the GitHub repo for dependency management.
-
