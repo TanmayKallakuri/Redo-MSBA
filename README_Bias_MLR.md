@@ -117,8 +117,3 @@ unexposed = "Hispanic" # Comparison group
 ```
 
 ---
-
-## Contact
-
-UC Davis MSBA Practicum Project  
-Partner: Redo.io
