@@ -80,8 +80,6 @@ jupyter>=1.0.0
 - Caps sentences at 1080 months (90 years)
 - Merges everything into one clean dataset
 
-**Runtime:** ~2-3 minutes
-
 ---
 
 ### Step 2: Run MLR Analysis
@@ -104,8 +102,6 @@ jupyter>=1.0.0
   - In-prison offenses (current and prior)
   - Sentencing county
 - Produces court-ready disparity estimate with confidence interval and p-value
-
-**Runtime:** ~30 seconds
 
 ---
 
